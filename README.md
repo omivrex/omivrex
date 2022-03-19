@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @omivrex
+- 👋 Hi, I’m @Rex
 - 👀 I’m interested in New ideas and better ways of fixing problems
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Microservices
 - 💞️ I’m looking to collaborate on small and larg projects
-- 📫 How to reach me on whatsapp +2347084972394, and on facebook https://web.facebook.com/rex.omivii
+- 📫 How to reach me on whatsapp +2347084972394, on facebook https://web.facebook.com/rex.omivii and email omivrex@gmail.com
 
 <!---
 omivrex/omivrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

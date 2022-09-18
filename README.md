@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rex
-- I'm a Fullstack web and mobile app developer 
+- I'm a Fullstack web, mobile and desktop app developer 
 - 👀 I’m interested in New ideas and better ways of solving problems
 - 🌱 I’m currently learning Microservices
 - 💞️ I’m looking to collaborate on small and larg projects

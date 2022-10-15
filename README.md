@@ -10,6 +10,8 @@
 <br>
 - 📫 You can reach me on whatsapp +2347084972394, on facebook https://web.facebook.com/rex.omivii and email omivrex@gmail.com
 
+<h2>Github Trophy</h2>
+<img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=omivrex&amp;theme=gruvbox" style="max-width: 100%;">
 
 <h2>Most Used Languages</h2>
 <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omivrex&amp;langs_count=5&amp;theme=tokyonight" style="max-width: 100%;">

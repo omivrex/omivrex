@@ -1,9 +1,13 @@
 <h1>About Me</h1>
-- 👋 Hi, I’m @Rex
-- I'm a Fullstack web, mobile and desktop app developer 
+- <h2>👋 Hi, I’m @Rex</h2>
+- I'm a Fullstack web, mobile and desktop app developer
+<br>
 - 👀 I’m interested in New ideas and better ways of solving problems
+<br>
 - 🌱 I’m currently learning Microservices
+<br>
 - 💞️ I’m looking to collaborate on small and larg projects
+<br>
 - 📫 You can reach me on whatsapp +2347084972394, on facebook https://web.facebook.com/rex.omivii and email omivrex@gmail.com
 
 

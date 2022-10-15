@@ -1,5 +1,6 @@
 <h1>About Me</h1>
-- <h2>👋 Hi, I’m @Rex</h2>
+
+<h2>👋 Hi, I’m @Rex</h2>
 - I'm a Fullstack web, mobile and desktop app developer
 <br>
 - 👀 I’m interested in New ideas and better ways of solving problems

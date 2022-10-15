@@ -6,6 +6,7 @@
 - 📫 You can reach me on whatsapp +2347084972394, on facebook https://web.facebook.com/rex.omivii and email omivrex@gmail.com
 
 
+<h2>Most Used Languages</h2>
 <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omivrex&amp;langs_count=5&amp;theme=tokyonight" style="max-width: 100%;">
 
  <img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=omivrex&theme=dark">

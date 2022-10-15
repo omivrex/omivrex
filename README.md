@@ -11,6 +11,13 @@
 <br>
 - 📫 You can reach me on whatsapp +2347084972394, on facebook https://web.facebook.com/rex.omivii and email omivrex@gmail.com
 
+<p align="left" dir="auto">
+<a href="https://www.twitter.com/RexOmiv" rel="nofollow"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/twitter-logo-svg-vector.svg" alt="twitter logo" height="50" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/rex-omiv" rel="nofollow"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" alt="linkedin logo" height="45" width="40" style="max-width: 100%;"></a>
+<a href="https://web.whatsapp.com/send?phone=+2347084972394" rel="nofollow"><img align="center" src="" alt="whatsapp logo" height="45" width="40" data-canonical-src="https://cdn.freebiesupply.com/logos/large/2x/whatsapp-logo-svg-vector.svg" style="max-width: 100%;"></a>
+<a href="https://stackoverflow.com/users/11702184/thesmartdeveloper" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/54b404409b6fe7e235adae660d5aacd44f40c465574dd82d76d5cb40b5106786/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f737461636b6f766572666c6f772d323735323036352d323238343838322e706e67" alt="stackoverflow logo" height="40" width="50" data-canonical-src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" style="max-width: 100%;"></a>
+</p>
+
 <h2>Github Trophy</h2>
 <img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=omivrex&amp;theme=gruvbox" style="max-width: 100%;">
 

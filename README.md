@@ -9,7 +9,7 @@
 
  <img src="https://github-readme-stats.vercel.app/api/?username=omivrex&count_private=true&theme=tokyonight&showicons=true">
  
- <img alt="'Contributions' Please refresh the page if the graph didnt show up" src="https://activity-graph.herokuapp.com/graph?username=omivrex&theme=dark">
+ <img alt="'Contributions' Please refresh the page if the graph didnt show up" src="https://activity-graph.herokuapp.com/graph?username=omivrex&theme=dracula">
 
 <!---
 omivrex/omivrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

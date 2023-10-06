@@ -9,7 +9,6 @@
 <br>
 - 💞️ I’m looking to collaborate on small and larg projects
 <br>
-- 📫 You can reach me on whatsapp +2347084972394, on facebook https://web.facebook.com/rex.omivii and email omivrex@gmail.com
 
 <p align="left" dir="auto">
 <a href="https://www.twitter.com/RexOmiv" rel="nofollow"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/twitter-logo-svg-vector.svg" alt="twitter logo" height="50" width="40" style="max-width: 100%;"></a>

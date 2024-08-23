@@ -5,7 +5,6 @@
 <br>
 - 👀 I’m interested in New ideas and better ways of solving problems
 <br>
-- 🌱 I’m currently learning Microservices
 <br>
 - 💞️ I’m looking to collaborate on small and larg projects
 <br>

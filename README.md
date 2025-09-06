@@ -5,8 +5,7 @@
 <br>
 - 👀 I’m interested in New ideas and better ways of solving problems
 <br>
-<br>
-- 💞️ I’m looking to collaborate on small and larg projects
+- 💞️ I’m looking to collaborate on small and large projects
 <br>
 
 <p align="left" dir="auto">
